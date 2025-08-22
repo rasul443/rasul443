@@ -23,8 +23,8 @@
 - Learning German
 
 ## 📫 How to reach me
-- Email: your_email@example.com
+- Email: igitovrasul84@gmail.com
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ## 😄 Fun fact
-- I teach swimming to kids and speak **5 languages**: Russian, German, Azerbaijani, English, Lezgin
+- I teach swimming to kids and speak **5 languages**: Russian, German, Azerbaijani, English.
