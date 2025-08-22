@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Rasul
 
-<!--
-**rasul443/rasul443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Currently working on
+- Building projects in **Python**, **SQL**, **HTML/CSS**
+- Exploring **cybersecurity** (Blue Team)
 
-Here are some ideas to get you started:
+## 🌱 Currently learning
+- Advanced **Linux & Windows administration**
+- **German** (B1 → B2)
+- Web development and GitHub portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 Looking to collaborate on
+- Beginner to intermediate projects in **Python**, **web development**, and **cybersecurity**
+
+## 🤔 Looking for help with
+- Improving my **GitHub portfolio**
+- Real-world **cybersecurity projects**
+
+## 💬 Ask me about
+- Python programming
+- SQL and databases
+- Cybersecurity basics
+- Learning German
+
+## 📫 How to reach me
+- Email: your_email@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+## 😄 Fun fact
+- I teach swimming to kids and speak **5 languages**: Russian, German, Azerbaijani, English, Lezgin
