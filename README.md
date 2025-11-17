@@ -1,37 +1,41 @@
 Rasul Igitov
-Overview
+Summary
 
-Entry-level cybersecurity and software development enthusiast with experience in Python, SQL, Linux, Windows administration, and basic web technologies. Focused on building a strong foundation for Blue Team and SOC Analyst roles.
+Entry-level cybersecurity specialist focused on Blue Team and SOC Analyst workflows. Experience includes Python scripting, log analysis, basic network security, Linux and Windows administration. Actively building practical security projects and preparing for SOC roles.
 
 Skills
 
-Programming: Python, SQL
-
-Systems: Linux, Windows
-
-Cybersecurity: Blue Team basics, log analysis, network fundamentals
-
+Cybersecurity: SIEM basics, log analysis, incident response fundamentals, network security, OSINT
+Systems: Linux (administration, permissions, logs), Windows (Event Viewer, Group Policy)
+Programming: Python (automation, parsing, small tools), SQL
 Web: HTML, CSS
+Tools: Git, GitHub, Wireshark, Splunk (beginner), ELK Stack (beginner)
 
-Tools: Git, GitHub
+Projects
+
+SOC Home Lab (in progress)
+
+Python log parser
+
+Windows Event Log analysis practice
+
+Small cybersecurity automation scripts
+
+Network traffic analysis exercises
+
+Certifications
+
+MillSec Cybersecurity Certificate (in progress)
+
+CompTIA Security+ (preparation)
 
 Current Goals
 
-Expanding Blue Team and SOC skills
+Build a complete SOC Analyst L1 portfolio
 
-Improving German proficiency (B1 → B2)
+Strengthen defensive security skills
 
-Developing practical projects for a professional portfolio
-
-Interests
-
-Defensive security
-
-Automation with Python
-
-System administration
-
-Real-world security practice
+Improve German from B1 to B2
 
 Contact
 
@@ -39,7 +43,3 @@ Email: igitovrasul84@gmail.com
 
 LinkedIn: linkedin.com/in/yourprofile
 GitHub: github.com/yourusername
-
-Additional
-
-Works as a swimming instructor and communicates in Russian, German, Azerbaijani, English.
