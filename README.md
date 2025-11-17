@@ -1,30 +1,45 @@
-# Hi there 👋, I'm Rasul
+Rasul Igitov
+Overview
 
-## 🔭 Currently working on
-- Building projects in **Python**, **SQL**, **HTML/CSS**
-- Exploring **cybersecurity** (Blue Team)
+Entry-level cybersecurity and software development enthusiast with experience in Python, SQL, Linux, Windows administration, and basic web technologies. Focused on building a strong foundation for Blue Team and SOC Analyst roles.
 
-## 🌱 Currently learning
-- Advanced **Linux & Windows administration**
-- **German** (B1 → B2)
-- Web development and GitHub portfolio
+Skills
 
-## 👯 Looking to collaborate on
-- Beginner to intermediate projects in **Python**, **web development**, and **cybersecurity**
+Programming: Python, SQL
 
-## 🤔 Looking for help with
-- Improving my **GitHub portfolio**
-- Real-world **cybersecurity projects**
+Systems: Linux, Windows
 
-## 💬 Ask me about
-- Python programming
-- SQL and databases
-- Cybersecurity basics
-- Learning German
+Cybersecurity: Blue Team basics, log analysis, network fundamentals
 
-## 📫 How to reach me
-- Email: igitovrasul84@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+Web: HTML, CSS
 
-## 😄 Fun fact
-- I teach swimming to kids and speak **5 languages**: Russian, German, Azerbaijani, English.
+Tools: Git, GitHub
+
+Current Goals
+
+Expanding Blue Team and SOC skills
+
+Improving German proficiency (B1 → B2)
+
+Developing practical projects for a professional portfolio
+
+Interests
+
+Defensive security
+
+Automation with Python
+
+System administration
+
+Real-world security practice
+
+Contact
+
+Email: igitovrasul84@gmail.com
+
+LinkedIn: linkedin.com/in/yourprofile
+GitHub: github.com/yourusername
+
+Additional
+
+Works as a swimming instructor and communicates in Russian, German, Azerbaijani, English.
