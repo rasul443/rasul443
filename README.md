@@ -1,45 +1,107 @@
-Rasul Igitov
-Summary
+# Rasul Igitov
 
-Entry-level cybersecurity specialist focused on Blue Team and SOC Analyst workflows. Experience includes Python scripting, log analysis, basic network security, Linux and Windows administration. Actively building practical security projects and preparing for SOC roles.
+## Summary
 
-Skills
+Cybersecurity student focused on Blue Team and Security Operations Center (SOC). Strong theoretical knowledge of defensive security, SIEM technologies, Windows security, Active Directory, Incident Response, Detection Engineering, and threat detection. Currently building enterprise-level home lab projects and preparing for SOC Analyst positions. Seeking to apply technical knowledge in a real-world security environment.
 
-Cybersecurity: SIEM basics, log analysis, incident response fundamentals, network security, OSINT
-Systems: Linux (administration, permissions, logs), Windows (Event Viewer, Group Policy)
-Programming: Python (automation, parsing, small tools), SQL
-Web: HTML, CSS
-Tools: Git, GitHub, Wireshark, Splunk (beginner), ELK Stack (beginner)
+---
 
-Projects
+## Technical Skills
 
-SOC Home Lab (in progress)
+### Blue Team & SOC
 
-Python log parser
+* Security Operations Center (SOC)
+* Incident Response
+* Detection Engineering
+* Threat Hunting
+* Windows Event Log Analysis
+* MITRE ATT&CK Framework
+* Sigma Rules
+* IOC Analysis
+* Threat Intelligence
 
-Windows Event Log analysis practice
+### SIEM & Security Tools
 
-Small cybersecurity automation scripts
+* Wazuh
+* Microsoft Sentinel
+* Splunk
+* Sysmon
+* Wireshark
+* Suricata
+* OpenCTI (learning)
+* MISP (learning)
 
-Network traffic analysis exercises
+### Windows & Linux
 
-Certifications
+* Windows Security
+* Active Directory
+* Group Policy
+* Kerberos
+* Windows Event Logs
+* Linux Administration
+* User & Permission Management
+* Log Analysis
 
-MillSec Cybersecurity Certificate (in progress)
+### Networking
 
-CompTIA Security+ (preparation)
+* TCP/IP
+* DNS
+* HTTP/HTTPS
+* DHCP
+* VPN
+* Firewalls
+* IDS/IPS
+* Network Traffic Analysis
 
-Current Goals
+### Other
 
-Build a complete SOC Analyst L1 portfolio
+* SQL (AI-assisted)
+* HTML/CSS (AI-assisted)
+* Git (currently learning)
 
-Strengthen defensive security skills
+---
 
-Improve German from B1 to B2
+## Projects
 
-Contact
+* Enterprise SOC Home Lab (Wazuh + Windows + Linux)
+* Windows Security Monitoring Lab
+* Active Directory Security Lab
+* Incident Response Scenarios
+* Threat Hunting using MITRE ATT&CK
+* Windows Event Log Analysis
+* Detection Rules (Sigma)
+* SOC Investigation Reports
+* SIEM Detection & Alerting Lab
 
-Email: igitovrasul84@gmail.com
+---
 
-LinkedIn: linkedin.com/in/yourprofile
-GitHub: github.com/yourusername
+## Certifications
+
+* MillSec Cybersecurity Program
+* CompTIA Security+ (in preparation)
+
+---
+
+## Languages
+
+* Russian – Native
+* Azerbaijani – Native
+* German – B2
+* English – B1
+
+---
+
+## Career Objective
+
+To begin my career as a SOC Analyst / Blue Team Analyst, gain hands-on experience in enterprise security operations, and specialize in Detection Engineering, Incident Response, and Threat Hunting.
+
+---
+
+## Contact
+
+Email: [igitovrasul84@gmail.com](mailto:igitovrasul84@gmail.com)
+
+LinkedIn: https://linkedin.com/in/yourprofile
+
+GitHub: https://github.com/yourusername
+
